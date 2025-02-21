@@ -10,7 +10,7 @@
 			"description": "CDN for blizzard/battle.net",
 			"domain_files": ["blizzard.txt"]
 		},
-        {		{
+        {
 			"name": "ubuntu",
 			"description": "CDN for Ubuntu Updates",
 			"domain_files": ["ubuntu.txt"]
