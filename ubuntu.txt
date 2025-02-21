@@ -1,0 +1,5 @@
+ports.ubuntu.com
+*.ports.ubuntu.com
+archive.ubuntu.com
+*.archive.ubuntu.com
+
