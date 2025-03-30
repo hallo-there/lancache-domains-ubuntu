@@ -15,6 +15,7 @@
 			"description": "CDN for Ubuntu Updates",
 			"domain_files": ["ubuntu.txt"]
 		},
+        {
         	"name": "all-http",
 			"description": "Testing literally every http domain",
 			"domain_files": ["all-http.txt"]
